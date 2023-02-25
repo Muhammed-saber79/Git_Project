@@ -35,5 +35,5 @@ you need to type next command...
 git push origin --delte <tag_name>
 ``` 
 
-# Here an Image:
+# Here is an Image:
 ![](12.jpg)
